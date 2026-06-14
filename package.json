@@ -1,0 +1,15 @@
+{
+  "name": "fifa-worldcup-bot",
+  "version": "1.0.0",
+  "description": "FIFA World Cup Discord Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "node-cron": "^4.2.1"
+  }
+}
